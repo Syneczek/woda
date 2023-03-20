@@ -1,0 +1,60 @@
+#banner {
+background-image: url("woda.jpg");
+color:white;
+height:350px;
+background-repeat: no-repeat;
+	background-position: center top;
+	background-attachment: fixed;
+	background-size: cover;
+	font-size: 100px;
+	font-family:arial;
+	padding-top:200px;
+
+}
+#formularz {
+	float:left;
+	height:700px;
+	width:600px;
+	background-color:#96f1ff;
+	
+	
+	
+	
+}
+#formularz2 {
+	height:520px;
+	width:400px;
+	background-color:#96f1ff;
+	color:white;
+	font-family:arial;
+	padding:50px;
+	margin:50px;
+	 border-radius: 15px;
+	background-image: url("woda2.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+	
+	
+	
+}
+#content {
+	background-image: url("woda3.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+	float:right;
+	width:1200px;
+	height:620px;
+	border-radius: 15px;
+	
+}
+#tlo {
+	float:right;
+	width:1187px;
+	height:600px;
+	background-color:#96f1ff;
+	padding:50px;
+	
+	
+}
